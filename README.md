@@ -1,3 +1,8 @@
 # HMSacieved
 This project I have done for my Object Oriented Programming II (python) this is what I could achieve.
-[url=https://ibb.co/NFZqH9b][img]https://i.ibb.co/NFZqH9b/Screenshot-2024-05-24-224918.png[/img][/url] [url=https://ibb.co/GtP3VjC][img]https://i.ibb.co/GtP3VjC/Screenshot-2024-05-24-224837.png[/img][/url] [url=https://ibb.co/hRm3Xkw][img]https://i.ibb.co/hRm3Xkw/Screenshot-2024-05-24-224827.png[/img][/url] [url=https://ibb.co/yNXG6QJ][img]https://i.ibb.co/yNXG6QJ/Screenshot-2024-05-24-224816.png[/img][/url] [url=https://ibb.co/CB0yYgn][img]https://i.ibb.co/CB0yYgn/Screenshot-2024-05-24-224804.png[/img][/url] [url=https://ibb.co/f0nQbcV][img]https://i.ibb.co/f0nQbcV/Screenshot-2024-05-24-224747.png[/img][/url]
+<img src="https://i.ibb.co/6ygSfHL/Screenshot-2024-05-24-224918.png" alt="Screenshot-2024-05-24-224918" border="0">
+<img src="https://i.ibb.co/s63JFrs/Screenshot-2024-05-24-224837.png" alt="Screenshot-2024-05-24-224837" border="0">
+<img src="https://i.ibb.co/DDR0GNT/Screenshot-2024-05-24-224827.png" alt="Screenshot-2024-05-24-224827" border="0">
+<img src="https://i.ibb.co/9pNzbrj/Screenshot-2024-05-24-224816.png" alt="Screenshot-2024-05-24-224816" border="0">
+<img src="https://i.ibb.co/kKcTwjh/Screenshot-2024-05-24-224804.png" alt="Screenshot-2024-05-24-224804" border="0">
+<img src="https://i.ibb.co/4NYJcQw/Screenshot-2024-05-24-224747.png" alt="Screenshot-2024-05-24-224747" border="0">
